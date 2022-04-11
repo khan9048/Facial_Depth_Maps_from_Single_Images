@@ -78,5 +78,5 @@ for Facial Depth Data
 
 [1] From Big to Small: Multi-Scale Local Planar Guidance for Monocular Depth Estimation. [[code]](https://github.com/cleinc/bts)
 
-[2 Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth. [[code]](https://github.com/vinvino02/GLPDepth)
+[2] Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth. [[code]](https://github.com/vinvino02/GLPDepth)
 
