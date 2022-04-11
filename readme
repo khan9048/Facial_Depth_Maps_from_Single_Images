@@ -1,4 +1,4 @@
-# A Robust Light-Weight Fused-Feature Encoder-Decoder Model for Monocular Facial Depth Estimation from Single Images Trained on Synthetic Data
+## A Robust Light-Weight Fused-Feature Encoder-Decoder Model for Monocular Facial Depth Estimation from Single Images Trained on Synthetic Data
 
 ## Downloads
 - [[Downloads]](https://drive.google.com/file/d/11sf9XwmfXT5IFPli-LMUWpVafh_yiKDm/view?usp=sharing, https://drive.google.com/file/d/1tBNQ0xHu4aWh2XPJcJhENC0tf6-Q9HrT/view?usp=sharing) Trained ckpt files for Synthetic Human Facial Depth Depth and Onnex converted file
@@ -71,3 +71,4 @@ for Facial Depth Data
 [1] From Big to Small: Multi-Scale Local Planar Guidance for Monocular Depth Estimation. [[code]](https://github.com/cleinc/bts)
 
 [2 Global-Local Path Networks for Monocular Depth Estimation with Vertical CutDepth. [[code]](https://github.com/vinvino02/GLPDepth)
+
