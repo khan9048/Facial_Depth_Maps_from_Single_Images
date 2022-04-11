@@ -39,7 +39,7 @@ contact me on the following email: f.khan4@nuigalway.ie for the complete dataset
      $ python ./code/test.py --dataset nyudepthv2 --data_path ./datasets/ --ckpt_dir ./logs/nyudepthv2/0311_test/epoch_09_model.ckpt --save_eval_pngs  --max_depth 10.0 --max_depth_eval 10.0 --do_evaluate --save_visualize
      ```
   #### Random sample frames results<br/>
-![image](Pictures/results_paper_1.png)
+![Pictures/results_paper_1.png]
 ## Train
 
 for Facial Depth Data
