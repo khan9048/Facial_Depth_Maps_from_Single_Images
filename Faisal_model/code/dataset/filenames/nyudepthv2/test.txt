@@ -1,3 +1,0 @@
-/RGB/rgb_0018.jpg /GT/sync_depth_0018.png
-/RGB/rgb_0033.jpg /GT/sync_depth_0033.png
-/RGB/rgb_0069.jpg /GT/sync_depth_0069.png
