@@ -38,8 +38,13 @@ contact me on the following email: f.khan4@nuigalway.ie for the complete dataset
      ```
      $ python ./code/test.py --dataset nyudepthv2 --data_path ./datasets/ --ckpt_dir ./logs/nyudepthv2/0311_test/epoch_09_model.ckpt --save_eval_pngs  --max_depth 10.0 --max_depth_eval 10.0 --do_evaluate --save_visualize
      ```
-  #### Random sample frames results<br/>
-![Pictures/results_paper_1.png]
+  #### Results<br/>
+![results_paper_1](https://user-images.githubusercontent.com/49758542/162745266-d40040d5-9453-488f-8ece-5c2b55e7f187.png)
+
+![results_paper_2](https://user-images.githubusercontent.com/49758542/162745410-bb74edb3-0a20-4a4d-be4f-6f05132c04fb.png)
+
+![results_paper_3](https://user-images.githubusercontent.com/49758542/162745426-bf8b499b-8a2f-4875-8525-2a0d5ac5d7e1.png)
+
 ## Train
 
 for Facial Depth Data
@@ -66,6 +71,9 @@ for Facial Depth Data
 
 ## Citation
 
+```
+  $   
+  ```
 ## References
 
 [1] From Big to Small: Multi-Scale Local Planar Guidance for Monocular Depth Estimation. [[code]](https://github.com/cleinc/bts)
